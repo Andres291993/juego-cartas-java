@@ -20,13 +20,11 @@
 
 
 
----Value
-      |           
-      ----Attack  
-      ----Defense
+---Value           
+----Attack  
+----Defense
 
 ---Mode
-      |
-      ----Defense mode
-      ----Attack mode
-      ----Sacrifice for HP
+----Defense mode
+----Attack mode
+----Sacrifice for HP
